@@ -41,20 +41,9 @@ Internally, the calculator captures the inputs, builds a string representing the
 
 <h2 id="final-considerations">🎯 FINAL CONSIDERATIONS</h2>
 
-<p>
-  This documentation was created to summarize and present the purpose behind the 
-  <strong>Calculator JS</strong> project. Developed as a study and practice tool, 
-  it demonstrates the importance of mastering basic web development skills such as HTML, CSS, and JavaScript.
-</p>
+<p>This documentation was created to summarize and present the purpose behind the <strong>Calculator JS</strong> project. Developed as a study and practice tool, it demonstrates the importance of mastering basic web development skills such as HTML, CSS, and JavaScript.</p>
 
-<p>
-  Feel free to explore the project, analyze the code, and adapt the concepts for your own studies or future applications. 
-  Simple projects like this are an excellent opportunity to strengthen your logic, interface development, and problem-solving skills.
-</p>
-
-<p>
-  Keep practicing and evolving your skills — every small project is a big step on your journey!
-</p>
+<p>Feel free to explore the project, analyze the code, and adapt the concepts for your own studies or future applications. Simple projects like this are an excellent opportunity to strengthen your logic, interface development, and problem-solving skills.</p>
 
 <br><br>
 
