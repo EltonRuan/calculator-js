@@ -1,4 +1,4 @@
-<div align='center'> <img style="width:100%" src="https://capsule-render.vercel.app/api?type=soft&height=200&color=FFFFFF&text=Calculator%20JS&fontSize=40&fontAlign=50&strokeWidth=0&descAlignY=80&stroke=000000"> </div> 
+<div align='center'> <img style="width:100%" src="https://capsule-render.vercel.app/api?type=soft&height=200&color=FFFFFF&text=Calculator%20Javascript&fontSize=40&fontAlign=50&strokeWidth=0&descAlignY=80&stroke=000000"> </div> 
 
 <nav align="center"> 
   <h2>NAVIGATION</h2> 
@@ -25,10 +25,9 @@ Internally, the calculator captures the inputs, builds a string representing the
 
 <h2 id="technologies-and-tools-used">🛠️ TECHNOLOGIES AND TOOLS USED</h2>
 <ul>
-  <li><strong>HTML5</strong> — Structure of the calculator and buttons.</li>
-  <li><strong>CSS3</strong> — Styling and layout adjustments.</li>
-  <li><strong>JavaScript (Vanilla)</strong> — Logic for operations and dynamic interactions.</li>
-  <li><strong>Visual Studio Code</strong> — Code editor used for development.</li>
+  <li><strong>HTML5</strong></li>
+  <li><strong>CSS</strong></li>
+  <li><strong>JavaScript</strong></li>
 </ul>
 
 <h2 id="features-and-functionalities">⚡ FEATURES AND FUNCTIONALITIES</h2>
@@ -40,7 +39,32 @@ Internally, the calculator captures the inputs, builds a string representing the
   <li><strong>Intuitive interface:</strong> Simple and user-friendly button layout.</li>
 </ul>
 
-## FINAL CONSIDERATIONS
-This project was developed as a personal initiative to practice programming logic, UI structuring, and event-driven behavior in web development.
-The Calculator JS serves as a great foundation for more complex applications in the future.
+<h2 id="final-considerations">🎯 FINAL CONSIDERATIONS</h2>
+
+<p>
+  This documentation was created to summarize and present the purpose behind the 
+  <strong>Calculator JS</strong> project. Developed as a study and practice tool, 
+  it demonstrates the importance of mastering basic web development skills such as HTML, CSS, and JavaScript.
+</p>
+
+<p>
+  Feel free to explore the project, analyze the code, and adapt the concepts for your own studies or future applications. 
+  Simple projects like this are an excellent opportunity to strengthen your logic, interface development, and problem-solving skills.
+</p>
+
+<p>
+  Keep practicing and evolving your skills — every small project is a big step on your journey!
+</p>
+
+<br><br>
+
+<p><strong>© 2025 EltonRuan. All rights reserved.</strong></p>
+
+<footer align="center">
+  <img 
+    style="width:100%;" 
+    src="https://capsule-render.vercel.app/api?type=soft&height=20&color=FFFFFF&fontSize=50&fontAlign=50&strokeWidth=0&descAlignY=80&stroke=000000&reversal=false&section=footer" 
+    alt="Footer Decoration">
+</footer>
+
 
